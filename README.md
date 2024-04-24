@@ -1,2 +1,2 @@
 # Harry Potter Sequels 
-Comparing the movie title with its sequel.
+Comparing each movie in the series with its sequel.
